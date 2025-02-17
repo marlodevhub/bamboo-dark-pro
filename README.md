@@ -1,39 +1,36 @@
-# Ganbaru
+# Bamboo Theme  
+## 🌿 Description  
 
-![Ganbaru Theme Preview](img/Ganbaru_img.png "Ganbaru Theme Preview")
+**Bamboo Theme** is a dark theme inspired by oriental nature, designed to provide a fresh, relaxing, and harmonious coding experience in **Visual Studio Code**. Its colors evoke the tranquility of bamboo forests, creating a natural and balanced environment for development.  
 
-## Description
+## ✨ Features  
 
-Ganbaru is a dark theme inspired by Japanese aesthetics, designed to offer an elegant and calming coding experience in Visual Studio Code. Perfect for developers seeking a comfortable and motivating workspace.
+- 🌱 **Nature-inspired design**: Soft and harmonious colors that bring a sense of calm and freshness.  
+- 🌙 **Relaxing dark mode**: Reduces eye strain during long coding sessions.  
+- 🖥️ **Multi-language support**: Works seamlessly with all programming languages supported by **Visual Studio Code**.  
 
-## Features
+## 📥 Installation  
 
--   **Dark Theme**: Reduces eye strain during long coding sessions.
--   **Japanese Aesthetic**: Colors and design that reflect the simplicity and beauty of Japanese art.
--   **Compatibility**: Works seamlessly with all programming languages supported by Visual Studio Code.
+1. Open **Visual Studio Code**.  
+2. Go to the Extensions view (**Ctrl + Shift + X**).  
+3. Search for **"Bamboo Theme"** and click **"Install"**.  
 
-## Installation
+## 🎨 Activation  
 
-1. Open Visual Studio Code.
-2. Go to the Extensions view (Ctrl + Shift + X).
-3. Search for "Ganbaru" and click "Install".
+To activate **Bamboo Theme**:  
 
-## Usage
+1. Open the **Command Palette** (**Ctrl + Shift + P**).  
+2. Type **"Color Theme"** and select **"Preferences: Change Color Theme"**.  
+3. Search for **"Bamboo Theme"** and choose it.  
 
-To activate the Ganbaru theme:
+## 🤝 Contributions  
 
-1. Open the Command Palette (Ctrl + Shift + P).
-2. Type "Color Theme" and select **Preferences: Change Color Theme**.
-3. Search for "Ganbaru" and choose the theme.
+Contributions are welcome! If you’d like to improve this theme or add new features, feel free to open an **issue** or submit a **pull request** in the repository.  
 
-## Contributions
+## 📜 License  
 
-Contributions are welcome! If you’d like to improve this theme or add new features, feel free to open an issue or submit a pull request.
+This project is licensed under the [MIT License](LICENSE).  
 
-## License
+## 📩 Contact  
 
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-If you have any questions or suggestions, don’t hesitate to contact me via [your email or GitHub profile].
+If you have any questions or suggestions, feel free to contact me via [Marlodev.com](https://Marlodev.com).
