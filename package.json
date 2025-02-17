@@ -1,8 +1,8 @@
 {
   "name": "bamboo-dark-pro",
-  "displayName": "Bamboo dark pro",
+  "displayName": "Bamboo Pro",
   "description": "Theme inspired by nature",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "Marlodev",
   "engines": {
     "vscode": "^1.97.0"

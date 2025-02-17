@@ -1,4 +1,5 @@
 # Bamboo Theme  
+![Bamboo Theme Preview](imgs/banner.png "Bamboo Theme Preview")
 ## 🌿 Description  
 
 **Bamboo Theme** is a dark theme inspired by oriental nature, designed to provide a fresh, relaxing, and harmonious coding experience in **Visual Studio Code**. Its colors evoke the tranquility of bamboo forests, creating a natural and balanced environment for development.  
